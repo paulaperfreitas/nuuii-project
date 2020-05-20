@@ -1,0 +1,11 @@
+/*
+Theme Name: oceanwp child
+Theme URI:http://wordpress:
+Description: This is a child theme of oceanwp
+Author: Paula Freitas Martinho
+Author URI: https://www.paulamartinho.com/
+Template: oceanwp
+Version: 1.0
+*/
+@import url("../oceanwp/style.css");
+
